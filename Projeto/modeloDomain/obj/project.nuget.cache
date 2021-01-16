@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYHIpxHDbHXXW+tVg10NQhaY+LYZYFNCyKLaR1aLWoftUxA2NNbjNw8jr4JjOsX/IEGAr9GH3cQgKcrUyT57zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Osiel\\Desktop\\manu\\Cursos\\DIO\\Projeto - Aplicação C# utilizando DDD\\Projeto\\modeloDomain\\modeloDomain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Osiel\\.nuget\\packages\\fluentvalidation\\9.4.0\\fluentvalidation.9.4.0.nupkg.sha512",
+    "C:\\Users\\Osiel\\.nuget\\packages\\fluentvalidation.aspnetcore\\9.4.0\\fluentvalidation.aspnetcore.9.4.0.nupkg.sha512",
+    "C:\\Users\\Osiel\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\9.4.0\\fluentvalidation.dependencyinjectionextensions.9.4.0.nupkg.sha512",
+    "C:\\Users\\Osiel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
